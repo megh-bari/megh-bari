@@ -76,6 +76,14 @@
 
 ###
 
+<h3 align="left">🔥   Hacktoberfest :</h3>
+
+###
+
+[![An image of @meghbari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/meghbari)](https://holopin.io/@meghbari)
+
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
